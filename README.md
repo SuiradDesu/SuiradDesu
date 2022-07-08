@@ -20,16 +20,11 @@ I have good knowledge, but I still haven't got internship opportunities or as a 
 
 I have a little more than 1 year of experience with HTML, CSS and Javascript. Currently I have been studying programming languages ​​focused on the backend such as Python, C++, C# and Node.js, I have a good base of programming logic and object orientation.  
   
-
 <br/>  
 
-
-## Rapidfire  
+### About me  
 <table><tr><td valign="top" width="50%">
 
-
-
-### About me  
 - 🚀🤩 in love with technology  
   
 
