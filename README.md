@@ -31,7 +31,7 @@ I have a little more than 1 year of experience with HTML, CSS and Javascript. Cu
 - 🌱I am currently studying C# and C++  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything technologies  
   
 
 - ⚡ Fun fact: I like to study interface design.  
