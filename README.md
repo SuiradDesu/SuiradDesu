@@ -31,7 +31,7 @@ I have a little more than 1 year of experience with HTML, CSS and Javascript. Cu
 - 🌱I am currently studying C# and C++  
   
 
-- ❓ Ask me about anything technologies  
+- ❓ Ask me about anything.
   
 
 - ⚡ Fun fact: I like to study interface design.  
