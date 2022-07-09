@@ -25,10 +25,10 @@ I have a little more than 1 year of experience with HTML, CSS and Javascript. Cu
 ### About me  
 <table><tr><td valign="top" width="50%">
 
-- 🚀🤩 in love with technology  
+- 🤩 in love with technology  
   
 
-- 🌱I am currently studying C# and C++  
+- 🌱 I am currently studying C# and C++  
   
 
 - ❓ Ask me about anything.
@@ -36,7 +36,7 @@ I have a little more than 1 year of experience with HTML, CSS and Javascript. Cu
 
 - ⚡ Fun fact: I like to study interface design.  
 
-* 🐱‍👤 My site: https://portfolio-lucas-mateus.vercel.app/
+- 🐱‍👤 My site: https://portfolio-lucas-mateus.vercel.app/
 
 
 </td></tr></table>  
