@@ -30,7 +30,7 @@ I have a little more than 1 year of experience with HTML, CSS and Javascript. Cu
 - 🤩 in love with technology  
   
 
-- 🌱 I am currently studying C# and C++  
+- 🌱 I am currently studying C# 
   
 
 - ❓ Ask me about anything.
