@@ -24,6 +24,8 @@ I have a little more than 1 year of experience with HTML, CSS and Javascript. Cu
 
 ### About me  
 <table><tr><td valign="top" width="50%">
+  
+- 🚀 My main career goal is to become a software engineering professional and Microsoft MVP.
 
 - 🤩 in love with technology  
   
