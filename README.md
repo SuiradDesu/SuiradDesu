@@ -1,99 +1,43 @@
-## 🐱‍👤 Lucas Mateus  
+<div>
+  <h1 align="center">Hello all well? I am the <a href="https://www.linkedin.com/in/lucas-mateus-alves-da-silva-077b82220/"><i>Lucas Mateus</i></a></h1>
+  <p align="center">Study Software Engineering at <a href="https://www.ampli.com.br/"><i>Ampli</i></a> 
+  <p align="center">🐱‍👤</h2>
+</div>
+
+<div><p align="center"><i>I have a little more than 1 year of experience with HTML, CSS and Javascript. Currently I have been studying programming languages ​​focused on the backend such as Python, php, C# and Js with Node.js. I have a good base of programming logic and object orientation.</i></p></div><br>
+
+<div align="center">
+  <a href="https://github.com/SuiradDesu">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suiraddesu&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suiraddesu&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+<h2 align="center" valign="top">Main skills</h2>
+<div align="center" valign="top"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" />
+</div><br>
+<h2 align="center" valign="top">Learning Skills</h2>
+<div align="center" valign="top"><br>
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+
+<div align="center">
+  <a href="https://www.instagram.com/luckcastle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-mateus-alves-da-silva-077b82220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="lmateus920@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
   
-
-<a href="https://github.com/suiraddesu" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-mateus-alves-da-silva-077b82220/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/luckcastle" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-
-
-
-### Glad to see you here!  
-I'm a software engineering student looking for an opportunity to collaborate on your company's projects.
-I have good knowledge, but I still haven't got internship opportunities or as a junior programmer, if you have this opportunity for me, I will sincerely be very grateful and guarantee you only add to your company. Thanks in advance for coming here.
-
-I have a little more than 1 year of experience with HTML, CSS and Javascript. Currently I have been studying programming languages ​​focused on the backend such as Python, C++, C# and Node.js, I have a good base of programming logic and object orientation.  
-  
-<br/>  
-
-### About me  
-<table><tr><td valign="top" width="50%">
-  
-- 🚀 My main career goal is to become a software engineering professional and Microsoft MVP.
-
-- 🤩 in love with technology  
-  
-
-- 🌱 I am currently studying C# 
-  
-
-- ❓ Ask me about anything.
-  
-
-- ⚡ Fun fact: I like to study interface design.  
-
-- 🐱‍👤 My site: https://portfolio-lucas-mateus.vercel.app/
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-
-
-### dominated  
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="65" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" />  
-</div>  
-
-
-
-### Learning  
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="55" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=suiraddesu&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=suiraddesu&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
+</div>
